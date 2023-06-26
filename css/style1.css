@@ -11,7 +11,7 @@
     background-color: rgb(100, 100, 255);
 }
 
-#img {
+#thebooleanerimg {
     width: 15%;
 }
 
@@ -26,7 +26,7 @@
 }
 
 #testo1 {
-    color: blue;
+    color: rgb(100, 100, 230);
 }
 
 #testo2 {
@@ -34,5 +34,24 @@
 }
 
 #testo3 {
-    font-size: 15px;
+    font-size: 12px;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+#tablehead {
+    background-color: rgb(63, 147, 189);
+    color: white;
+}
+
+.tablebody1 {
+    background-color: rgb(85, 208, 212);
+}
+
+.td1 {
+    width: 15%;
 }
