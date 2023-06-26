@@ -8,7 +8,7 @@
 #logo {
     height: 100px;
     background-image: url("../img/pattern.png");
-    background-color: rgb(100, 100, 255);
+    background-color: rgb(100, 170, 255);
 }
 
 #thebooleanerimg {
@@ -37,6 +37,10 @@
     font-size: 12px;
 }
 
+.testo4 {
+    background-color: yellow;
+}
+
 table {
     width: 100%;
     text-align: left;
@@ -44,14 +48,18 @@ table {
 }
 
 #tablehead {
-    background-color: rgb(63, 147, 189);
+    background-color: rgb(50, 150, 250);
     color: white;
 }
 
 .tablebody1 {
-    background-color: rgb(85, 208, 212);
+    background-color: rgb(140, 210, 255);
 }
 
 .td1 {
-    width: 15%;
+    width: 20%;
+}
+
+ul {
+    padding-left: 30px;
 }
